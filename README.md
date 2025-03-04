@@ -6,7 +6,7 @@ Bem-vindo ao meu espaço no GitHub! 🎉 Aqui você encontrará um compilado dos
 
 ## 🌟 Sobre Mim
 
-Tenho um apreço por tecnologia e desenvolvimento de software voltado para web e mobile. Atualmente, faço parte da equipe da **Raízes Soluções**, onde atuo como **desenvolvedor backend**, criando sistemas dinâmicos. Meu objetivo é sempre aprender, evoluir e construir soluções usando tecnologia, seja em projetos profissionais ou de estudo.
+Tenho um apreço por tecnologia e desenvolvimento de software voltado para web e mobile. Atualmente, faço parte da equipe da **Raízes Tech**, onde atuo como **desenvolvedor backend**, criando sistemas dinâmicos. Meu objetivo é sempre aprender, evoluir e construir soluções usando tecnologia, seja em projetos profissionais ou de estudo.
 
 ---
 

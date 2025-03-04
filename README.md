@@ -29,7 +29,7 @@ Tenho um apreço por tecnologia e desenvolvimento de software voltado para web e
 
 Quer colaborar, ou apenas trocar uma ideia? Entre em contato comigo por:
 
-- **Email**: [luizfspintoo@email.com](mailto:luizfspintoo@outlook.com)
+- **Email**: [luizfspintoo@gmail.com](mailto:luizfspintoo@gmail.com)
 
 ---
 
